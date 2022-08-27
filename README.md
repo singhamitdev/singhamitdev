@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhamitdev
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Angular,HTML,SCC,JavaScript
+- 🌱 I have worked on Angular,HTML,SCC,JavaScript
 - 💞️ I’m looking to collaborate on Web Application development projects 
 - 📫 How to reach me amits1310@outlook.com
 
